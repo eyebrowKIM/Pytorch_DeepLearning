@@ -5,3 +5,5 @@ MNIST_data/
 *.xml
 
 eng_w2v
+
+!requirements.txt
