@@ -1,2 +1,7 @@
 .data/
 MNIST_data/
+
+*.txt
+*.xml
+
+eng_w2v
